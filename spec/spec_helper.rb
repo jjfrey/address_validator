@@ -1,0 +1,5 @@
+require 'rspec'
+require 'webmock/rspec'
+require_relative '../lib/address_validator'
+require_relative '../lib/address_validator_client'
+require_relative '../lib/address'
