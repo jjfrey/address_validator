@@ -2,7 +2,9 @@
 
 Setup:
 using terminal, run the following commands to user your own API credentials
+
 `export SMARTY_AUTH_ID=foo`
+
 `export SMARTY_AUTH_TOKEN=bar`
 
 How to run:
