@@ -1,7 +1,10 @@
 # address_validator
 
 Setup:
+
+
 using terminal, run the following commands to user your own API credentials
+
 
 `export SMARTY_AUTH_ID=foo`
 
